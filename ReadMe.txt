@@ -9,5 +9,4 @@ You only need to modify These two m-files, keep the other function unchanged.
 Set the paths in those two m-files equal to the path you store your *.Raw files.
 
 **************************************************************
-if you had any problem please contact us at m.ghanatbari@gmail.com
 **************************************************************
