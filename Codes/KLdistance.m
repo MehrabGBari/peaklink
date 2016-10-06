@@ -1,0 +1,9 @@
+function kl=KLdistance(p1, p2, q1, q2)
+sp=(p1+p2);
+p1=p1/sp;
+p2=p2/sp;
+sq=q1+q2;
+q1=q1/sq;
+q2=q2/sq;
+kl=q1*log(q1/p1)+q2*log(q2/p2);
+kl=log(kl);
